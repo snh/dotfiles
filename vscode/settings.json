@@ -1,0 +1,14 @@
+{
+  "workbench.enableExperiments": false,
+  "extensions.ignoreRecommendations": true,
+  "telemetry.enableCrashReporter": false,
+  "telemetry.enableTelemetry": false,
+  "git.confirmSync": false,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "terminal.integrated.copyOnSelection": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.tabSize": 2,
+  "explorer.confirmDragAndDrop": false
+}

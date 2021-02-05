@@ -1,0 +1,30 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+
+brew "curl"
+brew "git"
+brew "git-lfs"
+brew "go"
+brew "jq"
+brew "mas"
+brew "socat"
+brew "sqlite"
+brew "the_silver_searcher"
+
+cask "cryptomator"
+cask "docker"
+cask "deckset"
+cask "firefox"
+cask "forklift"
+cask "iterm2"
+cask "microsoft-edge"
+cask "mondraw"
+cask "vagrant"
+cask "virtualbox"
+cask "visual-studio-code"
+cask "wireshark"
+cask "zettlr"
+
+mas "1Password 7", id: 1333542190
+mas "WireGuard", id: 1451685025

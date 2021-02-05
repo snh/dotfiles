@@ -5,8 +5,8 @@
 - clean: ['~']
 
 - link:
-    ~/.aliases.sh: aliases.sh
-    ~/.zshrc: zshrc
+    ~/.Brewfile: homebrew/Brewfile
+    ~/Library/Application Support/Code/User/settings.json: vscode/settings.json
 
 - shell:
   - [git submodule update --init --recursive, Installing submodules]
