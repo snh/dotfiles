@@ -13,6 +13,7 @@ brew "sqlite"
 brew "the_silver_searcher"
 brew "wget"
 
+cask "1password"
 cask "cryptomator"
 cask "docker"
 cask "deckset"
@@ -31,5 +32,4 @@ cask "wireshark"
 cask "zettlr"
 cask "zoom"
 
-mas "1Password 7", id: 1333542190
 mas "WireGuard", id: 1451685025
