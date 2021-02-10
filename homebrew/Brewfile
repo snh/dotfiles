@@ -11,6 +11,7 @@ brew "mas"
 brew "socat"
 brew "sqlite"
 brew "the_silver_searcher"
+brew "wget"
 
 cask "cryptomator"
 cask "docker"
