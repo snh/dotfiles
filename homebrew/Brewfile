@@ -28,6 +28,7 @@ cask "virtualbox"
 cask "visual-studio-code"
 cask "wireshark"
 cask "zettlr"
+user "zoom"
 
 mas "1Password 7", id: 1333542190
 mas "WireGuard", id: 1451685025
